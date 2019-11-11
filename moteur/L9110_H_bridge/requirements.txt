@@ -1,0 +1,2 @@
+RPi.GPIO==0.7.0
+rpimotorlib==2.7
